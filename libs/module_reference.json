@@ -1,0 +1,1198 @@
+{
+	"referenceInfoList": {
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/en_US.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/zh_CN.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/registerClass.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getQualifiedClassName.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/extends.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/ByteArray.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getDefinitionByName.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getQualifiedClassName.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getQualifiedSuperclassName.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getQualifiedClassName.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/toColorString.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/is.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/startTick.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/stopTick.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/XML.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/Logger.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/hasDefinition.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getDefinitionByName.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getOption.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Matrix.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Point.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Point.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Point.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/Timer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/stopTick.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TimerEvent.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventPhase.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/ProgressEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TimerEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TouchEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Point.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/HTTPStatusEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TextEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/FocusEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/GeolocationEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/OrientationEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BlendMode.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DisplayList.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Matrix.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Renderable.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Sprite.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Matrix.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BlendMode.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BlendMode.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Point.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Bitmap.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapFillMode.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapData.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapFillMode.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/RenderTexture.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DisplayList.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Renderable.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Matrix.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapData.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/IDisplayObjectContainer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObjectContainer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DisplayList.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/IDisplayObjectContainer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsRenderContext.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsGradient.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapData.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsPattern.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/toColorString.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsGradient.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsPattern.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Graphics.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsRenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Shape.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Graphics.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Sprite.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/IDisplayObjectContainer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Graphics.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Screen.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/StageScaleMode.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/SpriteSheet.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/HttpMethod.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/HttpResponseType.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/HttpRequest.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/ImageLoader.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapData.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/EgretEntry.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Screen.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/OrientationMode.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DirtyRegion.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DisplayList.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Renderable.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Surface.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DirtyRegion.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/IScreenAdapter.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/PlayerOption.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Player.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/IVersionController.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/NetContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getDefinitionByName.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/extends.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Shape.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Sprite.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DisplayList.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Renderable.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Surface.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/StageScaleMode.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/IScreenAdapter.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/IScreenAdapter.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Surface.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Surface.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Player.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/TouchHandler.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Console.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/HorizontalAlign.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextFieldType.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/InputController.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextFieldType.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Graphics.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TouchEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TextEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/toColorString.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextFieldUtils.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/VerticalAlign.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextFieldUtils.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextFieldType.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/HorizontalAlign.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/VerticalAlign.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/StageText.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/InputController.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/StageText.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TouchEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/FocusEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/HtmlTextParser.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/BitmapFont.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/SpriteSheet.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/BitmapText.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/BitmapFont.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/localStorage/localStorage.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/external/ExternalInterface.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/BitmapFilterQuality.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/Filter.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/GlowFilter.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/Filter.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/BlurFilter.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/Filter.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/ColorMatrixFilter.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/Filter.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/DropShadowFilter.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/GlowFilter.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/SoundChannel.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/SoundChannel.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Video.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapData.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/setTimeout.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/setInterval.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/Injector.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getQualifiedClassName.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/Recycler.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/system/MainContext.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/FrameLabel.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipData.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/SpriteSheet.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/FrameLabel.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipDataFactory.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/SpriteSheet.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipData.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClip.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipData.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/FrameLabel.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/ScrollView.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/ScrollViewProperties.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/Timer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/tween/Tween.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/tween/Ease.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TouchEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TimerEvent.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/ScrollViewProperties.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Point.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TouchEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/tween/Tween.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/tween/Tween.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/tween/Ease.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/IVersionController.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequestMethod.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLVariables.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequestHeader.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequest.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequestMethod.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequestHeader.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoader.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/NetContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequest.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/NetContext.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoader.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/IVersionController.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequest.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequestMethod.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLVariables.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/player/Ticker.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/web/HTML5StageText.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/localStorage/web/WebLocalStorage.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/external/web/WebExternalInterface.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/CanvasFactory.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebBitmapData.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/EgretWeb.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebPlayer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/CanvasFactory.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebBitmapData.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapData.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebCapability.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebPlayer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Screen.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Player.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebHideHandler.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/web/HTML5StageText.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/PlayerOption.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/StageScaleMode.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/OrientationMode.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/web/HTML5StageText.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebTouchHandler.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebTouchHandler.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/TouchHandler.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebXML.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/XML.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebHideHandler.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/QQSound.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/QQSoundChannel.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/QQSoundChannel.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/SoundChannel.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/Logger.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSoundChannel.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSoundChannel.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/SoundChannel.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/HtmlSound.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/HtmlSoundChannel.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/HtmlSoundChannel.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/SoundChannel.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/HtmlSound.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebVideo.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Video.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/setTimeout.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/startTick.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/stopTick.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/ImageLoader.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebGetOption.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getOption.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebTexture.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Surface.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/HtmlSound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/QQSound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/web/WebHttpRequest.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/web/WebImageLoader.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/web/WebHttpRequest.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebBitmapData.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/web/HTML5NetContext.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/NetContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/HttpRequest.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/ProgressEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/PromiseObject.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/native/NativeStageText.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/StageText.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeDisplayList.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DisplayList.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Renderable.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Surface.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DirtyRegion.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/localStorage/native/NativeLocalStorage.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/external/native/NativeExternalInterface.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/NativeVersionController.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/ILoadingView.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/DefaultLoadingView.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeResourceLoader.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/ProgressEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/IVersionController.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/PromiseObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeHideHandler.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeTouchHandler.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/TouchHandler.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/OpenGLFactory.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeSurface.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeResourceLoader.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/PromiseObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/ProgressEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeTexture.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeSurface.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeRenderContext.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/EgretNative.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/OpenGLFactory.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativePlayer.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeSurface.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Surface.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeRenderContext.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativePlayer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Screen.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/PlayerOption.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Player.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeTouchHandler.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeSurface.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeHideHandler.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeRenderContext.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeSurface.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/native/NativeSound.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/native/NativeSoundChannel.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/native/NativeSoundChannel.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/SoundChannel.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/native/NativeSound.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeGetOption.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getOption.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/native/NativeImageLoader.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/PromiseObject.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/native/NativeNetContext.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/PromiseObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequestHeader.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/ProgressEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/DefaultLoadingView.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObjectContainer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/ILoadingView.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/ILoadingView.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/Html5VersionController.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/IVersionController.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/NativeVersionController.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/events/ResourceEvent.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts": [],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceConfig.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceLoader.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/Injector.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/events/ResourceEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/AnalyzerBase.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/AnalyzerBase.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceConfig.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoader.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequest.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/Recycler.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/ImageAnalyzer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/JsonAnalyzer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/TextAnalyzer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/SheetAnalyzer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/SpriteSheet.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoader.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/FontAnalyzer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/BitmapFont.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/SheetAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/SoundAnalyzer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/XMLAnalyzer.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/XML.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts"
+		],
+		"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts": [
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/Injector.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceLoader.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/ImageAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/TextAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/JsonAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/SheetAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/FontAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/SoundAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/XMLAnalyzer.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceConfig.ts",
+			"/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/events/ResourceEvent.ts"
+		]
+	},
+	"classNameToPath": {
+		"egret.$locale_strings": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts",
+		"egret.$language": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts",
+		"egret.sys.tr": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/i18n/tr.ts",
+		"egret.registerClass": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/registerClass.ts",
+		"DEBUG": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+		"RELEASE": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/Defines.debug.ts",
+		"__extends": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/extends.ts",
+		"egret.superSetter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/extends.ts",
+		"egret.superGetter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/extends.ts",
+		"egret.NumberUtils": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts",
+		"egret_sin_map": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts",
+		"egret_cos_map": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts",
+		"DEG_TO_RAD": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts",
+		"NumberUtils_i": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NumberUtils.ts",
+		"egret.$hashCount": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+		"egret.HashObject": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/HashObject.ts",
+		"egret.Endian": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/ByteArray.ts",
+		"egret.ByteArray": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/ByteArray.ts",
+		"egret.getDefinitionByName": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getDefinitionByName.ts",
+		"__global": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getDefinitionByName.ts",
+		"egret.getQualifiedClassName": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getQualifiedClassName.ts",
+		"egret.getQualifiedSuperclassName": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getQualifiedSuperclassName.ts",
+		"egret.$START_TIME": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+		"egret.getTimer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getTimer.ts",
+		"egret.toColorString": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/toColorString.ts",
+		"egret.is": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/is.ts",
+		"egret.isUndefined": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+		"egret.getNumber": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/NONE.ts",
+		"egret.startTick": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/startTick.ts",
+		"egret.stopTick": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/stopTick.ts",
+		"egret.XMLNode": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/XML.ts",
+		"egret.XML": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/XML.ts",
+		"egret.XMLText": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/XML.ts",
+		"egret.$callLaterFunctionList": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+		"egret.$callLaterThisList": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+		"egret.$callLaterArgsList": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+		"egret.callLater": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+		"egret.$callAsyncFunctionList": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+		"egret.$callAsyncThisList": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+		"egret.$callAsyncArgsList": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+		"egret.$callAsync": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/callLater.ts",
+		"egret.Logger": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/Logger.ts",
+		"egret.getString": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/Logger.ts",
+		"egret.hasDefinition": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/hasDefinition.ts",
+		"egret.getOption": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/getOption.ts",
+		"egret.Matrix": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Matrix.ts",
+		"egret.$TempMatrix": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Matrix.ts",
+		"egret.Point": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Point.ts",
+		"egret.$TempPoint": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Point.ts",
+		"egret.Rectangle": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+		"egret.$TempRectangle": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/geom/Rectangle.ts",
+		"egret.IEventDispatcher": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IEventDispatcher.ts",
+		"egret.EventDispatcher": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+		"egret.sys.EventBin": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/EventDispatcher.ts",
+		"egret.Timer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/utils/Timer.ts",
+		"egret.Event": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/Event.ts",
+		"egret.ProgressEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/ProgressEvent.ts",
+		"egret.TimerEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TimerEvent.ts",
+		"egret.TouchEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TouchEvent.ts",
+		"egret.HTTPStatusEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/HTTPStatusEvent.ts",
+		"egret.IOErrorEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/IOErrorEvent.ts",
+		"egret.TextEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/TextEvent.ts",
+		"egret.FocusEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/FocusEvent.ts",
+		"egret.GeolocationEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/GeolocationEvent.ts",
+		"egret.OrientationEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/events/OrientationEvent.ts",
+		"egret.BlendMode": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BlendMode.ts",
+		"egret.sys.blendModeToNumber": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BlendMode.ts",
+		"egret.sys.numberToBlendMode": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BlendMode.ts",
+		"egret.DisplayObject": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObject.ts",
+		"egret.Bitmap": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Bitmap.ts",
+		"egret.BitmapFillMode": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapFillMode.ts",
+		"egret.$TextureScaleFactor": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+		"egret.Texture": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Texture.ts",
+		"egret.RenderTexture": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/RenderTexture.ts",
+		"egret.BitmapData": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/BitmapData.ts",
+		"egret.IDisplayObjectContainer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/IDisplayObjectContainer.ts",
+		"egret.DisplayObjectContainer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/DisplayObjectContainer.ts",
+		"egret.Vector": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsRenderContext.ts",
+		"egret.GraphicsRenderContext": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsRenderContext.ts",
+		"egret.sys.GraphicsCommand": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsRenderContext.ts",
+		"egret.GraphicsGradient": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsGradient.ts",
+		"egret.GraphicsPattern": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/GraphicsPattern.ts",
+		"egret.Graphics": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Graphics.ts",
+		"egret.Shape": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Shape.ts",
+		"egret.Sprite": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Sprite.ts",
+		"egret.Stage": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/Stage.ts",
+		"egret.SpriteSheet": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/display/SpriteSheet.ts",
+		"egret.HttpMethod": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/HttpMethod.ts",
+		"egret.HttpResponseType": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/HttpResponseType.ts",
+		"egret.HttpRequest": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/HttpRequest.ts",
+		"egret.ImageLoader": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/ImageLoader.ts",
+		"egret.sys.Screen": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Screen.ts",
+		"egret.sys.OrientationMode": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/OrientationMode.ts",
+		"egret.sys.DirtyRegion": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DirtyRegion.ts",
+		"egret.sys.DisplayList": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/DisplayList.ts",
+		"egret.sys.IScreenAdapter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/IScreenAdapter.ts",
+		"egret.sys.StageDisplaySize": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/IScreenAdapter.ts",
+		"PlayerOption": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/PlayerOption.ts",
+		"egret.sys.Player": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Player.ts",
+		"egret.sys.FPS": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Player.ts",
+		"egret.sys.Region": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Region.ts",
+		"egret.sys.Renderable": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Renderable.ts",
+		"egret.sys.RenderContext": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+		"egret.sys.TextMetrics": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+		"egret.sys.ImageData": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/RenderContext.ts",
+		"egret.StageScaleMode": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/StageScaleMode.ts",
+		"egret.sys.screenAdapter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts",
+		"egret.sys.ScreenAdapter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/ScreenAdapter.ts",
+		"egret.sys.Surface": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/Surface.ts",
+		"egret.sys.sharedRenderContext": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+		"egret.sys.surfaceFactory": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+		"egret.sys.SurfaceFactory": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SurfaceFactory.ts",
+		"egret.sys.$invalidateRenderFlag": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+		"egret.sys.$requestRenderingFlag": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+		"egret.sys.SystemTicker": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+		"egret.sys.$ticker": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+		"egret.sys.$TempStage": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/SystemTicker.ts",
+		"egret.sys.TouchHandler": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/player/TouchHandler.ts",
+		"egret.RuntimeType": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+		"egret.Capabilities": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+		"testDeviceType": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+		"testRuntimeType": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/system/Capabilities.ts",
+		"egret.HorizontalAlign": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/HorizontalAlign.ts",
+		"egret.TextFieldType": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextFieldType.ts",
+		"egret.TextField": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+		"egret.sys.toFontString": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextField.ts",
+		"egret.VerticalAlign": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/VerticalAlign.ts",
+		"egret.TextFieldUtils": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/TextFieldUtils.ts",
+		"egret.StageText": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/StageText.ts",
+		"egret.InputController": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/InputController.ts",
+		"egret.IHitTextElement": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+		"egret.ITextStyle": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+		"egret.ITextElement": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+		"egret.IWTextElement": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+		"egret.ILineElement": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/ITextElement.ts",
+		"egret.HtmlTextParser": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/HtmlTextParser.ts",
+		"egret.BitmapFont": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/BitmapFont.ts",
+		"egret.BitmapText": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/BitmapText.ts",
+		"egret.localStorage.getItem": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/localStorage/localStorage.ts",
+		"egret.localStorage.setItem": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/localStorage/localStorage.ts",
+		"egret.localStorage.removeItem": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/localStorage/localStorage.ts",
+		"egret.localStorage.clear": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/localStorage/localStorage.ts",
+		"egret.ExternalInterface": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/external/ExternalInterface.ts",
+		"egret.Filter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/Filter.ts",
+		"egret.GlowFilter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/GlowFilter.ts",
+		"egret.BlurFilter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/BlurFilter.ts",
+		"egret.ColorMatrixFilter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/ColorMatrixFilter.ts",
+		"egret.DropShadowFilter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/filters/DropShadowFilter.ts",
+		"egret.SoundChannel": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/SoundChannel.ts",
+		"egret.Sound": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Sound.ts",
+		"egret.Video": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/Video.ts",
+		"egret.setTimeout": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/setTimeout.ts",
+		"egret.clearTimeout": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/setTimeout.ts",
+		"egret.setInterval": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/setInterval.ts",
+		"egret.clearInterval": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/setInterval.ts",
+		"egret.Injector": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/Injector.ts",
+		"egret.Recycler": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/utils/Recycler.ts",
+		"egret.MainContext": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/system/MainContext.ts",
+		"testDeviceType1": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/system/MainContext.ts",
+		"testRuntimeType1": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/system/MainContext.ts",
+		"egret.FrameLabel": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/FrameLabel.ts",
+		"egret.MovieClipEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipEvent.ts",
+		"egret.MovieClipData": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipData.ts",
+		"egret.MovieClipDataFactory": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClipDataFactory.ts",
+		"egret.MovieClip": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/MovieClip.ts",
+		"egret.ScrollView": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/ScrollView.ts",
+		"egret.ScrollViewProperties": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/display/ScrollViewProperties.ts",
+		"egret.Tween": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/tween/Tween.ts",
+		"egret.Ease": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/tween/Ease.ts",
+		"egret.IVersionController": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/IVersionController.ts",
+		"egret.VersionController": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/IVersionController.ts",
+		"egret.URLRequestMethod": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequestMethod.ts",
+		"egret.URLLoaderDataFormat": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoaderDataFormat.ts",
+		"egret.URLVariables": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLVariables.ts",
+		"egret.URLRequestHeader": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequestHeader.ts",
+		"egret.URLRequest": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLRequest.ts",
+		"egret.URLLoader": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/URLLoader.ts",
+		"egret.NetContext": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/NetContext.ts",
+		"egret.$getUrl": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/net/NetContext.ts",
+		"egret.Ticker": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/player/Ticker.ts",
+		"egret.web.HTML5StageText": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/web/HTML5StageText.ts",
+		"egret.web.HTMLInput": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/web/HTML5StageText.ts",
+		"egret.web.$getTextAdapter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/web/HTML5StageText.ts",
+		"egret.web.$cacheTextAdapter": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/web/HTML5StageText.ts",
+		"egret.web.WebExternalInterface": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/external/web/WebExternalInterface.ts",
+		"egret.web.CanvasFactory": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/CanvasFactory.ts",
+		"egret.web.toBitmapData": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebBitmapData.ts",
+		"egret.web.WebCapability": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebCapability.ts",
+		"egret.web.WebPlayer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebPlayer.ts",
+		"egret.web.WebTouchHandler": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebTouchHandler.ts",
+		"egret.web.XMLNode": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebXML.ts",
+		"egret.web.XML": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebXML.ts",
+		"egret.web.XMLText": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebXML.ts",
+		"egret.web.WebHideHandler": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebHideHandler.ts",
+		"egret.web.QQSound": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/QQSound.ts",
+		"egret.web.QQSoundChannel": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/QQSoundChannel.ts",
+		"AudioBuffer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts",
+		"AudioBufferSourceNodeEgret": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts",
+		"egret.web.WebAudioDecode": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts",
+		"egret.web.WebAudioSound": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSound.ts",
+		"egret.web.WebAudioSoundChannel": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebAudioSoundChannel.ts",
+		"egret.web.HtmlSound": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/HtmlSound.ts",
+		"egret.web.HtmlSoundChannel": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/HtmlSoundChannel.ts",
+		"egret.web.WebVideo": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/web/WebVideo.ts",
+		"egret.web.getOption": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/WebGetOption.ts",
+		"egret.web.AudioType": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+		"egret.web.SystemOSType": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+		"egret.web.Html5Capatibility": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+		"egret.web.getPrefixStyleName": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/web/Html5Capatibility.ts",
+		"egret.web.WebHttpRequest": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/web/WebHttpRequest.ts",
+		"egret.web.WebImageLoader": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/web/WebImageLoader.ts",
+		"egret.web.HTML5NetContext": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/web/HTML5NetContext.ts",
+		"egret.PromiseObject": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/PromiseObject.ts",
+		"egret.NativeStageText": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/text/native/NativeStageText.ts",
+		"egret.sys.NativeDisplayList": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeDisplayList.ts",
+		"egret.native.NativeExternalInterface": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/external/native/NativeExternalInterface.ts",
+		"egret.NativeVersionController": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/NativeVersionController.ts",
+		"egret.native.NativeHideHandler": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeHideHandler.ts",
+		"egret.native.NativeTouchHandler": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeTouchHandler.ts",
+		"egret.native.OpenGLFactory": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/OpenGLFactory.ts",
+		"egret.NativeResourceLoader": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeResourceLoader.ts",
+		"egret.native.NativeSurface": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeSurface.ts",
+		"egret.native.NativePlayer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativePlayer.ts",
+		"egret.native.NativeRenderContext": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeRenderContext.ts",
+		"egret.web.NativeSound": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/native/NativeSound.ts",
+		"egret.web.NativeSoundChannel": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/media/native/NativeSoundChannel.ts",
+		"egret.native.getOption": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/native/NativeGetOption.ts",
+		"egret.native.NativeImageLoader": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/egret/net/native/NativeImageLoader.ts",
+		"egret.native.NativeNetContext": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/game/native/NativeNetContext.ts",
+		"egret.DefaultLoadingView": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/DefaultLoadingView.ts",
+		"egret.ILoadingView": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/ILoadingView.ts",
+		"egret.Html5VersionController": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/version/Html5VersionController.ts",
+		"RES.ResourceEvent": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/events/ResourceEvent.ts",
+		"RES.ResourceItem": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceItem.ts",
+		"RES.ResourceConfig": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceConfig.ts",
+		"RES.ResourceLoader": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/core/ResourceLoader.ts",
+		"RES.AnalyzerBase": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/AnalyzerBase.ts",
+		"RES.BinAnalyzer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/BinAnalyzer.ts",
+		"RES.ImageAnalyzer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/ImageAnalyzer.ts",
+		"RES.JsonAnalyzer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/JsonAnalyzer.ts",
+		"RES.TextAnalyzer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/TextAnalyzer.ts",
+		"RES.SheetAnalyzer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/SheetAnalyzer.ts",
+		"RES.FontAnalyzer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/FontAnalyzer.ts",
+		"RES.SoundAnalyzer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/SoundAnalyzer.ts",
+		"RES.XMLAnalyzer": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/analyzer/XMLAnalyzer.ts",
+		"RES.loadConfig": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.loadGroup": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.isGroupLoaded": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.getGroupByName": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.createGroup": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.hasRes": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.parseConfig": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.getRes": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.getResAsync": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.getResByUrl": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.destroyRes": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.setMaxLoadingThread": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.setMaxRetryTimes": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.addEventListener": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.removeEventListener": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts",
+		"RES.Resource": "/Users/xiashishi/egretVersion/egret-core-rc-v2.4.2/src/extension/resource/Resource.ts"
+	}
+}
